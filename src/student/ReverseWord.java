@@ -28,6 +28,7 @@ public class ReverseWord {
         */
         Scanner sc = new Scanner(System.in);
         System.out.println("Please enter a word");
+        System.out.println("This line is added");
         String word = sc.nextLine();
         
         char[] myLetters = new char[word.length()];
