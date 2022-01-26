@@ -1,4 +1,7 @@
-
+/*
+Date: Jav 26th 2022
+Author: Saerom Lee
+*/
 package student;
 
 public class Student {
